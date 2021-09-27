@@ -1,0 +1,10 @@
+C:\Users\Atte\Documents\Pelinkehittäjän koulutus\Näyttötyöt\OhjelmaTuotantoverio\OhjelmaTuotantoverio\bin\Debug\OhjelmaTuotantoverio.exe.config
+C:\Users\Atte\Documents\Pelinkehittäjän koulutus\Näyttötyöt\OhjelmaTuotantoverio\OhjelmaTuotantoverio\bin\Debug\OhjelmaTuotantoverio.exe
+C:\Users\Atte\Documents\Pelinkehittäjän koulutus\Näyttötyöt\OhjelmaTuotantoverio\OhjelmaTuotantoverio\bin\Debug\OhjelmaTuotantoverio.pdb
+C:\Users\Atte\Documents\Pelinkehittäjän koulutus\Näyttötyöt\OhjelmaTuotantoverio\OhjelmaTuotantoverio\obj\Debug\OhjelmaTuotantoverio.csprojAssemblyReference.cache
+C:\Users\Atte\Documents\Pelinkehittäjän koulutus\Näyttötyöt\OhjelmaTuotantoverio\OhjelmaTuotantoverio\obj\Debug\OhjelmaTuotantoverio.Form1.resources
+C:\Users\Atte\Documents\Pelinkehittäjän koulutus\Näyttötyöt\OhjelmaTuotantoverio\OhjelmaTuotantoverio\obj\Debug\OhjelmaTuotantoverio.Properties.Resources.resources
+C:\Users\Atte\Documents\Pelinkehittäjän koulutus\Näyttötyöt\OhjelmaTuotantoverio\OhjelmaTuotantoverio\obj\Debug\OhjelmaTuotantoverio.csproj.GenerateResource.cache
+C:\Users\Atte\Documents\Pelinkehittäjän koulutus\Näyttötyöt\OhjelmaTuotantoverio\OhjelmaTuotantoverio\obj\Debug\OhjelmaTuotantoverio.csproj.CoreCompileInputs.cache
+C:\Users\Atte\Documents\Pelinkehittäjän koulutus\Näyttötyöt\OhjelmaTuotantoverio\OhjelmaTuotantoverio\obj\Debug\OhjelmaTuotantoverio.exe
+C:\Users\Atte\Documents\Pelinkehittäjän koulutus\Näyttötyöt\OhjelmaTuotantoverio\OhjelmaTuotantoverio\obj\Debug\OhjelmaTuotantoverio.pdb
